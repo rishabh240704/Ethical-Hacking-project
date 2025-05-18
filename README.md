@@ -1,7 +1,11 @@
-🔐 Ethical Hacking Project
-Scanning and Enumerating a Local Network with Nmap
-Table of Contents
-Project: Simulating Real-World Network Exploitation and Defense
+**🔐 Ethical Hacking Project  : Simulating Real-World Network Exploitation and Defense
+Author : Rishabh Kashyap  
+Semester : 6  
+Branch : Cyber Security** 
+Scanning and Enumerating a Local Network with Nmap  
+Table of Contents  
+
+**Project: Simulating Real-World Network Exploitation and Defense  **
 
 
 
