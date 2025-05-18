@@ -1,4 +1,4 @@
-**🔐 Ethical Hacking Project  : Simulating Real-World Network Exploitation and Defense
+**🔐 Ethical Hacking Project  : Simulating Real-World Network Exploitation and Defense  
 Author : Rishabh Kashyap  
 Semester : 6  
 Branch : Cyber Security** 
